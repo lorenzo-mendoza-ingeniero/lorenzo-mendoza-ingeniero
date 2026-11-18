@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Lorenzo
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2980B9&width=435&lines=Estudiante+de+Ingenier%C3%ADa+Mec%C3%A1nica/Mecatr%C3%B3nica;Entusiasta+de+la+Rob%C3%B3tica+y+el+Control;Dise%C3%B1o+Mec%C3%A1nico+y+Automatizaci%C3%B3n" alt="Typing SVG" />
@@ -19,12 +19,9 @@ Aquí un resumen de mis proyectos de ingeniería. Puedes hacer clic en cada uno 
 
 | 📂 Proyecto | 📝 Descripción | 🛠️ Herramientas |
 | :--- | :--- | :--- |
-| **[Third-Order Control Analysis](https://github.com/<username>/third-order-control-analysis)** | Diseño de controlador por realimentación de estados y observadores de Luenberger para una planta de tercer orden. | MATLAB, Simulink, Proteus |
+| **[Third-Order Control Analysis](https://github.com/<lorenzo-mendoza-ingeniero>/third-order-control-analysis)** | Diseño de controlador por realimentación de estados y observadores de Luenberger para una planta de tercer orden. | MATLAB, Simulink, Proteus |
 | **[SCARA PRR 3DOF](https://github.com/<username>/scara-prr-3dof)** | Diseño mecánico, cinemática y simulación de un manipulador SCARA de 3 grados de libertad para paletizado. | SolidWorks, MATLAB, Arduino |
 | **[Can Labeling System](https://github.com/<username>/can-labeling-coding-system)** | Maqueta electroneumática automatizada para el etiquetado y codificación de latas de alimentos. | PLC, GRAFCET, Neumática, SolidWorks |
-| **[RRP Rehab Robot](https://github.com/<username>/rrp-rehab-robot)** | Robot de rehabilitación de 3 GDL (RRP) enfocado en terapia de miembros superiores. | SolidWorks, Python, Matlab |
-| **[CNC G-Code Machining](https://github.com/<username>/cnc-gcode-machining)** | Análisis, generación de código G y manufactura de piezas en máquinas CNC. | G-Code, CAD/CAM |
-| **[PIC16F877A Assembly](https://github.com/<username>/pic16f877a-assembly)** | Proyectos de automatización y control utilizando microcontroladores PIC y ensamblador. | PIC, Assembly, Proteus |
 | **[North Refinery Network](https://github.com/<username>/north-refinery-network-design)** | Diseño e implementación de topologías de red para planta industrial (datos sanitizados). | Cisco Packet Tracer, Networking |
 
 ---
