@@ -21,7 +21,7 @@ Aquí un resumen de mis proyectos de ingeniería. Puedes hacer clic en cada uno 
 | :--- | :--- | :--- |
 | **[Third-Order Control Analysis](https://github.com/lorenzo-mendoza-ingeniero/third-order-control-analysis)** | Diseño de controlador por realimentación de estados y observadores de Luenberger para una planta de tercer orden. | MATLAB, Simulink, Proteus |
 | **[SCARA PRR 3DOF](https://github.com/lorenzo-mendoza-ingeniero/scara-prr-3dof)** | Diseño mecánico, cinemática y simulación de un manipulador SCARA de 3 grados de libertad para paletizado. | SolidWorks, MATLAB, Arduino |
-| **[Can Labeling System](https://github.com/lorenzo-mendoza-ingeniero/can-labeling-coding-system)** | Maqueta electroneumática automatizada para el etiquetado y codificación de latas de alimentos. | PLC, GRAFCET, Neumática, SolidWorks |
+| **[Can Labeling System](https://github.com/lorenzo-mendoza-ingeniero/can-labeling-coding-system)** | Maqueta electroneumática automatizada para el etiquetado y codificación de latas de alimentos. | SolidWorks, MATLAB, FluidSIM, TIA Portal |
 | **[North Refinery Network](https://github.com/lorenzo-mendoza-ingeniero/north-refinery-network-design)** | Diseño e implementación de topologías de red para planta industrial (datos sanitizados). | Cisco Packet Tracer, Networking |
 
 ---
